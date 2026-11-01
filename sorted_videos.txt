@@ -1,0 +1,93 @@
+# Open-Source Intelligence (OSINT) Fundamentals
+
+1. First Section  [s1.html]
+    001. Introduction - ethicalhackx  ->  https://drive.google.com/file/d/12oYaN16_xy70LoRFVOs53nlwfWWPqUu3/preview
+    002. Course Discord - ethicalhackx  ->  https://drive.google.com/file/d/139pHruMyj9a2MGGn9JOHq6W-G0gj5yC_/preview
+    003. Important Disclaimer - ethicalhackx  ->  https://drive.google.com/file/d/12tc8gwGO6Gbo5UG_2c8iw03DZhRRBZI6/preview
+
+2. OSINT Overview  [s2.html]
+    001. What is OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13G5v_NqcNy2wuHnCQnltbuRd1euc8GbN/preview
+
+3. Note Keeping  [s3.html]
+    001. Taking Effective Notes - ethicalhackx  ->  https://drive.google.com/file/d/144wVbId8di65knu9cRYUuUUEmvADi5y_/preview
+
+4. Sock Puppets  [s4.html]
+    001. Introduction to Sock Puppets - ethicalhackx  ->  https://drive.google.com/file/d/12g52ZdO5sNXOmQELIix_XU9IwxIxt-ld/preview
+    002. Creating Sock Puppets - ethicalhackx  ->  https://drive.google.com/file/d/12QCsWxBgaxoZfpekwIK5R4OnPwV8askW/preview
+
+5. Search Engine OSINT  [s5.html]
+    001. 001 - Search Engine Operators - ethicalhackx  ->  https://drive.google.com/file/d/14FGqLsVmgMDLGt4De-OUBzUs1anf3fdU/preview
+
+6. Image OSINT  [s6.html]
+    001. Reverse Image Searching - ethicalhackx  ->  https://drive.google.com/file/d/10B5QxNcB7z1QfD0AjhAu4ah2vc5PRTDW/preview
+    002. Viewing EXIF Data - ethicalhackx  ->  https://drive.google.com/file/d/102lJbshFsqI3P8QMYiojbjlSL3IPupeL/preview
+    003. Physical Location OSINT - ethicalhackx  ->  https://drive.google.com/file/d/10DfXfA5iXPBwgGG8HaEuPe66HWX81Gfh/preview
+    004. Identifying Geographical Locations - ethicalhackx  ->  https://drive.google.com/file/d/10M5sjIV4-3NMhIUOrKtQ0Aa-u0UEukHb/preview
+    005. Where in the World... Part 1 - ethicalhackx  ->  https://drive.google.com/file/d/10CNv60hR0PtZQIAelvexYHpjMT_6bS6o/preview
+    006. Where in the World... Part 2 - ethicalhackx  ->  https://drive.google.com/file/d/10VL8WMuoXaNaXjh49VfeJ2fKjyF7sANm/preview
+
+7. Email OSINT  [s7.html]
+    001. Discovering Email Addresses - ethicalhackx  ->  https://drive.google.com/file/d/1-TDe6hpnKN4c0029fZ3YbymqXKUEUATx/preview
+
+8. Password OSINT  [s8.html]
+    001. Introduction - ethicalhackx  ->  https://drive.google.com/file/d/11zWS0B0YEsIhgTaLse13gpZG3a1mNiZw/preview
+    002. Hunting Breached Passwords Part 1 - ethicalhackx  ->  https://drive.google.com/file/d/11yD1W1g3UMJXYlk38DlrjcqYWPTfffCw/preview
+    003. Hunting Breached Passwords Part 2 - ethicalhackx  ->  https://drive.google.com/file/d/11xEIpO7c0NWhzGCTfghuyPE7F3LrjlXG/preview
+
+9. Username OSINT  [s9.html]
+    001. Hunting Usernames and Accounts - ethicalhackx  ->  https://drive.google.com/file/d/124YM7It3Nnr36eu5QmgdyRJCiDBmzUbZ/preview
+
+10. People OSINT  [s10.html]
+    001. Searching for People - ethicalhackx  ->  https://drive.google.com/file/d/1-Tt_QPPiboAM4oGtFJj1zZCupPtPQooO/preview
+    002. Voter Records - ethicalhackx  ->  https://drive.google.com/file/d/1-auWfvQQp5_cGN5vCHyolQ97BXr0sUUr/preview
+    003. Hunting Phone Numbers - ethicalhackx  ->  https://drive.google.com/file/d/1-jO4BcQ3nJ5SYJg58tZ2fWGnKf7rqErp/preview
+    004. Discovering Birthdates - ethicalhackx  ->  https://drive.google.com/file/d/1-pC7Ftg6xyJES2wT5GK9c_KBM-YXSWKt/preview
+    005. Searching for Resumes - ethicalhackx  ->  https://drive.google.com/file/d/1-wojyHh-QaMKVDN99gsYYizgYfYDJX58/preview
+
+11. Social Media OSINT  [s11.html]
+    001. Twitter OSINT Part 1 - ethicalhackx  ->  https://drive.google.com/file/d/13Lerbmv3dY7fT97aFpH62TTWnJ8mfhvp/preview
+    002. Twitter OSINT Part 2 - ethicalhackx  ->  https://drive.google.com/file/d/13BQKhYaH6MHqrjJBAZXUI942LNsoyNL8/preview
+    003. Twitter OSINT Part 3 - ethicalhackx  ->  https://drive.google.com/file/d/13V0GJBflfnJ6pt6u2-rUen08DbYeQUP1/preview
+    004. Facebook OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13QhuQsPUqAyQ83EJOkBgkQ8xMk-vx_r9/preview
+    005. Instagram OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13iPn-jXTTwNn7aVGG2OUmJgogS5iDEWd/preview
+    006. Snapchat OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13RuJYEWTpo09MvY1PcVRfXKwHn9MYjcH/preview
+    007. Reddit OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13VqsPwM463Q2CTg1jwrud8XPymp8KI-L/preview
+    008. LinkedIn OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13LGvIuMPpiDXK3CeKnb56btSaV6ARjD5/preview
+    009. TikTok OSINT - ethicalhackx  ->  https://drive.google.com/file/d/13m8QdCDpiZXHo_sJSsg92yXfjOrGdKL8/preview
+
+12. Website OSINT  [s12.html]
+    001. Website OSINT Part 1 - ethicalhackx  ->  https://drive.google.com/file/d/11gVR-V_Ocwsan3IwXpX5C5sk91vovEy7/preview
+    002. Website OSINT Part 2 - ethicalhackx  ->  https://drive.google.com/file/d/11oBufRm5fLrih-gl6bbu7MkRQJcuo6ws/preview
+    003. Website OSINT Part 3 - ethicalhackx  ->  https://drive.google.com/file/d/11oBbTCAUhg7AjaZnmkbilsLzswqUSzRp/preview
+
+13. Business OSINT  [s13.html]
+    001. Hunting Business Information - ethicalhackx  ->  https://drive.google.com/file/d/11q_KBK7Wyzl0IwKB5DroM0mgtq6W3JG3/preview
+
+14. Building an OSINT Lab  [s14.html]
+    001. Building an OSINT Lab Part 1 - ethicalhackx  ->  https://drive.google.com/file/d/141iml4dH4BPF7lBIYdGoYPLZNCf1wPL2/preview
+    002. Building an OSINT Lab Part 2 - ethicalhackx  ->  https://drive.google.com/file/d/14-_NRGhwuTQJ8UWiU8W7YnxS3Zr2fYcG/preview
+    003. Building an OSINT Lab Part 3 - ethicalhackx  ->  https://drive.google.com/file/d/13xzuoj8YWSw8od7aIg1QuCB1pMkwkNGi/preview
+
+15. Working with OSINT Tools  [s15.html]
+    001. Introduction - ethicalhackx  ->  https://drive.google.com/file/d/116hs0j1dFhigRY6rbW56hYSEoy-jblqq/preview
+    002. Image and Location OSINT - ethicalhackx  ->  https://drive.google.com/file/d/10nCn0bxskcgtVtaDTXGxJHOo-w87Dxu-/preview
+    003. Hunting Emails and Breached Data - ethicalhackx  ->  https://drive.google.com/file/d/10kKxvb2L2ow2ZDgJWvOuEkcsU6hcixBW/preview
+    004. Username and Account OSINT - ethicalhackx  ->  https://drive.google.com/file/d/10dZKyfgR9fTJuUtVizlakV6IGdZZ64Vo/preview
+    005. Phone Number OSINT - ethicalhackx  ->  https://drive.google.com/file/d/10pgMDSt--yBsBNUudatj-sIImHZ_ubqI/preview
+    006. Social Media OSINT - ethicalhackx  ->  https://drive.google.com/file/d/10iWRnaGh2v6ETvdM32AzXEu_5p3z67Sy/preview
+    007. Website OSINT - ethicalhackx  ->  https://drive.google.com/file/d/10rcxWySMLHH5j5OZ9YwNB_WXv6cb8JLS/preview
+    008. Exploring OSINT Frameworks - ethicalhackx  ->  https://drive.google.com/file/d/10fu78cn-PGk9Lv-w5zjaTDgAGsdFSF18/preview
+    009. Other Tools - ethicalhackx  ->  https://drive.google.com/file/d/10eHfJOKaiR1an3CBjsSI7CbjnQvHMjrS/preview
+
+16. OSINT Automation Foundations  [s16.html]
+    001. Automating Website OSINT - ethicalhackx  ->  https://drive.google.com/file/d/12zPbOPlIrajfZWV9JJCGRQ96gzSfzdww/preview
+
+17. Course Challenge  [s17.html]
+    001. Course Challenge Overview - ethicalhackx  ->  https://drive.google.com/file/d/12GkyRbF50PFDQK1E15xoexx2leLORWRK/preview
+    002. Course Challenge Walkthrough - ethicalhackx  ->  https://drive.google.com/file/d/12GNP4oS9Ulb88W4iUqoZEgfOHATeiKrt/preview
+
+18. OSINT Report Writing  [s18.html]
+    001. Writing an OSINT Report - ethicalhackx  ->  https://drive.google.com/file/d/1-uvaHq6kAknlq7AysoH_LY-N-31LZPTK/preview
+
+19. Conclusion & Additional Resources  [s19.html]
+    001. Conclusion & Additional Resources - ethicalhackx  ->  https://drive.google.com/file/d/10VfzS_wmCJqDPzfNJefSXUZhkTm4SmKm/preview

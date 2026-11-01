@@ -1,0 +1,520 @@
+{
+  "name": "Open-Source Intelligence (OSINT) Fundamentals",
+  "slug": "Open-Source_Intelligence_-OSINT-_Fundamentals",
+  "url": "https://LexCode30.github.io/Open-Source_Intelligence_-OSINT-_Fundamentals/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "First Section",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction - ethicalhackx",
+          "id": "12oYaN16_xy70LoRFVOs53nlwfWWPqUu3",
+          "anchor": "v-12oYaN16_xy70LoRFVOs53nlwfWWPqUu3",
+          "href": "s1.html#v-12oYaN16_xy70LoRFVOs53nlwfWWPqUu3"
+        },
+        {
+          "number": 2,
+          "title": "Course Discord - ethicalhackx",
+          "id": "139pHruMyj9a2MGGn9JOHq6W-G0gj5yC_",
+          "anchor": "v-139pHruMyj9a2MGGn9JOHq6W-G0gj5yC_",
+          "href": "s1.html#v-139pHruMyj9a2MGGn9JOHq6W-G0gj5yC_"
+        },
+        {
+          "number": 3,
+          "title": "Important Disclaimer - ethicalhackx",
+          "id": "12tc8gwGO6Gbo5UG_2c8iw03DZhRRBZI6",
+          "anchor": "v-12tc8gwGO6Gbo5UG_2c8iw03DZhRRBZI6",
+          "href": "s1.html#v-12tc8gwGO6Gbo5UG_2c8iw03DZhRRBZI6"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "OSINT Overview",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is OSINT - ethicalhackx",
+          "id": "13G5v_NqcNy2wuHnCQnltbuRd1euc8GbN",
+          "anchor": "v-13G5v_NqcNy2wuHnCQnltbuRd1euc8GbN",
+          "href": "s2.html#v-13G5v_NqcNy2wuHnCQnltbuRd1euc8GbN"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Note Keeping",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Taking Effective Notes - ethicalhackx",
+          "id": "144wVbId8di65knu9cRYUuUUEmvADi5y_",
+          "anchor": "v-144wVbId8di65knu9cRYUuUUEmvADi5y_",
+          "href": "s3.html#v-144wVbId8di65knu9cRYUuUUEmvADi5y_"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Sock Puppets",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Sock Puppets - ethicalhackx",
+          "id": "12g52ZdO5sNXOmQELIix_XU9IwxIxt-ld",
+          "anchor": "v-12g52ZdO5sNXOmQELIix_XU9IwxIxt-ld",
+          "href": "s4.html#v-12g52ZdO5sNXOmQELIix_XU9IwxIxt-ld"
+        },
+        {
+          "number": 2,
+          "title": "Creating Sock Puppets - ethicalhackx",
+          "id": "12QCsWxBgaxoZfpekwIK5R4OnPwV8askW",
+          "anchor": "v-12QCsWxBgaxoZfpekwIK5R4OnPwV8askW",
+          "href": "s4.html#v-12QCsWxBgaxoZfpekwIK5R4OnPwV8askW"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Search Engine OSINT",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "001 - Search Engine Operators - ethicalhackx",
+          "id": "14FGqLsVmgMDLGt4De-OUBzUs1anf3fdU",
+          "anchor": "v-14FGqLsVmgMDLGt4De-OUBzUs1anf3fdU",
+          "href": "s5.html#v-14FGqLsVmgMDLGt4De-OUBzUs1anf3fdU"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Image OSINT",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Reverse Image Searching - ethicalhackx",
+          "id": "10B5QxNcB7z1QfD0AjhAu4ah2vc5PRTDW",
+          "anchor": "v-10B5QxNcB7z1QfD0AjhAu4ah2vc5PRTDW",
+          "href": "s6.html#v-10B5QxNcB7z1QfD0AjhAu4ah2vc5PRTDW"
+        },
+        {
+          "number": 2,
+          "title": "Viewing EXIF Data - ethicalhackx",
+          "id": "102lJbshFsqI3P8QMYiojbjlSL3IPupeL",
+          "anchor": "v-102lJbshFsqI3P8QMYiojbjlSL3IPupeL",
+          "href": "s6.html#v-102lJbshFsqI3P8QMYiojbjlSL3IPupeL"
+        },
+        {
+          "number": 3,
+          "title": "Physical Location OSINT - ethicalhackx",
+          "id": "10DfXfA5iXPBwgGG8HaEuPe66HWX81Gfh",
+          "anchor": "v-10DfXfA5iXPBwgGG8HaEuPe66HWX81Gfh",
+          "href": "s6.html#v-10DfXfA5iXPBwgGG8HaEuPe66HWX81Gfh"
+        },
+        {
+          "number": 4,
+          "title": "Identifying Geographical Locations - ethicalhackx",
+          "id": "10M5sjIV4-3NMhIUOrKtQ0Aa-u0UEukHb",
+          "anchor": "v-10M5sjIV4-3NMhIUOrKtQ0Aa-u0UEukHb",
+          "href": "s6.html#v-10M5sjIV4-3NMhIUOrKtQ0Aa-u0UEukHb"
+        },
+        {
+          "number": 5,
+          "title": "Where in the World... Part 1 - ethicalhackx",
+          "id": "10CNv60hR0PtZQIAelvexYHpjMT_6bS6o",
+          "anchor": "v-10CNv60hR0PtZQIAelvexYHpjMT_6bS6o",
+          "href": "s6.html#v-10CNv60hR0PtZQIAelvexYHpjMT_6bS6o"
+        },
+        {
+          "number": 6,
+          "title": "Where in the World... Part 2 - ethicalhackx",
+          "id": "10VL8WMuoXaNaXjh49VfeJ2fKjyF7sANm",
+          "anchor": "v-10VL8WMuoXaNaXjh49VfeJ2fKjyF7sANm",
+          "href": "s6.html#v-10VL8WMuoXaNaXjh49VfeJ2fKjyF7sANm"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Email OSINT",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Discovering Email Addresses - ethicalhackx",
+          "id": "1-TDe6hpnKN4c0029fZ3YbymqXKUEUATx",
+          "anchor": "v-1-TDe6hpnKN4c0029fZ3YbymqXKUEUATx",
+          "href": "s7.html#v-1-TDe6hpnKN4c0029fZ3YbymqXKUEUATx"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Password OSINT",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction - ethicalhackx",
+          "id": "11zWS0B0YEsIhgTaLse13gpZG3a1mNiZw",
+          "anchor": "v-11zWS0B0YEsIhgTaLse13gpZG3a1mNiZw",
+          "href": "s8.html#v-11zWS0B0YEsIhgTaLse13gpZG3a1mNiZw"
+        },
+        {
+          "number": 2,
+          "title": "Hunting Breached Passwords Part 1 - ethicalhackx",
+          "id": "11yD1W1g3UMJXYlk38DlrjcqYWPTfffCw",
+          "anchor": "v-11yD1W1g3UMJXYlk38DlrjcqYWPTfffCw",
+          "href": "s8.html#v-11yD1W1g3UMJXYlk38DlrjcqYWPTfffCw"
+        },
+        {
+          "number": 3,
+          "title": "Hunting Breached Passwords Part 2 - ethicalhackx",
+          "id": "11xEIpO7c0NWhzGCTfghuyPE7F3LrjlXG",
+          "anchor": "v-11xEIpO7c0NWhzGCTfghuyPE7F3LrjlXG",
+          "href": "s8.html#v-11xEIpO7c0NWhzGCTfghuyPE7F3LrjlXG"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Username OSINT",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Hunting Usernames and Accounts - ethicalhackx",
+          "id": "124YM7It3Nnr36eu5QmgdyRJCiDBmzUbZ",
+          "anchor": "v-124YM7It3Nnr36eu5QmgdyRJCiDBmzUbZ",
+          "href": "s9.html#v-124YM7It3Nnr36eu5QmgdyRJCiDBmzUbZ"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "People OSINT",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Searching for People - ethicalhackx",
+          "id": "1-Tt_QPPiboAM4oGtFJj1zZCupPtPQooO",
+          "anchor": "v-1-Tt_QPPiboAM4oGtFJj1zZCupPtPQooO",
+          "href": "s10.html#v-1-Tt_QPPiboAM4oGtFJj1zZCupPtPQooO"
+        },
+        {
+          "number": 2,
+          "title": "Voter Records - ethicalhackx",
+          "id": "1-auWfvQQp5_cGN5vCHyolQ97BXr0sUUr",
+          "anchor": "v-1-auWfvQQp5_cGN5vCHyolQ97BXr0sUUr",
+          "href": "s10.html#v-1-auWfvQQp5_cGN5vCHyolQ97BXr0sUUr"
+        },
+        {
+          "number": 3,
+          "title": "Hunting Phone Numbers - ethicalhackx",
+          "id": "1-jO4BcQ3nJ5SYJg58tZ2fWGnKf7rqErp",
+          "anchor": "v-1-jO4BcQ3nJ5SYJg58tZ2fWGnKf7rqErp",
+          "href": "s10.html#v-1-jO4BcQ3nJ5SYJg58tZ2fWGnKf7rqErp"
+        },
+        {
+          "number": 4,
+          "title": "Discovering Birthdates - ethicalhackx",
+          "id": "1-pC7Ftg6xyJES2wT5GK9c_KBM-YXSWKt",
+          "anchor": "v-1-pC7Ftg6xyJES2wT5GK9c_KBM-YXSWKt",
+          "href": "s10.html#v-1-pC7Ftg6xyJES2wT5GK9c_KBM-YXSWKt"
+        },
+        {
+          "number": 5,
+          "title": "Searching for Resumes - ethicalhackx",
+          "id": "1-wojyHh-QaMKVDN99gsYYizgYfYDJX58",
+          "anchor": "v-1-wojyHh-QaMKVDN99gsYYizgYfYDJX58",
+          "href": "s10.html#v-1-wojyHh-QaMKVDN99gsYYizgYfYDJX58"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Social Media OSINT",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Twitter OSINT Part 1 - ethicalhackx",
+          "id": "13Lerbmv3dY7fT97aFpH62TTWnJ8mfhvp",
+          "anchor": "v-13Lerbmv3dY7fT97aFpH62TTWnJ8mfhvp",
+          "href": "s11.html#v-13Lerbmv3dY7fT97aFpH62TTWnJ8mfhvp"
+        },
+        {
+          "number": 2,
+          "title": "Twitter OSINT Part 2 - ethicalhackx",
+          "id": "13BQKhYaH6MHqrjJBAZXUI942LNsoyNL8",
+          "anchor": "v-13BQKhYaH6MHqrjJBAZXUI942LNsoyNL8",
+          "href": "s11.html#v-13BQKhYaH6MHqrjJBAZXUI942LNsoyNL8"
+        },
+        {
+          "number": 3,
+          "title": "Twitter OSINT Part 3 - ethicalhackx",
+          "id": "13V0GJBflfnJ6pt6u2-rUen08DbYeQUP1",
+          "anchor": "v-13V0GJBflfnJ6pt6u2-rUen08DbYeQUP1",
+          "href": "s11.html#v-13V0GJBflfnJ6pt6u2-rUen08DbYeQUP1"
+        },
+        {
+          "number": 4,
+          "title": "Facebook OSINT - ethicalhackx",
+          "id": "13QhuQsPUqAyQ83EJOkBgkQ8xMk-vx_r9",
+          "anchor": "v-13QhuQsPUqAyQ83EJOkBgkQ8xMk-vx_r9",
+          "href": "s11.html#v-13QhuQsPUqAyQ83EJOkBgkQ8xMk-vx_r9"
+        },
+        {
+          "number": 5,
+          "title": "Instagram OSINT - ethicalhackx",
+          "id": "13iPn-jXTTwNn7aVGG2OUmJgogS5iDEWd",
+          "anchor": "v-13iPn-jXTTwNn7aVGG2OUmJgogS5iDEWd",
+          "href": "s11.html#v-13iPn-jXTTwNn7aVGG2OUmJgogS5iDEWd"
+        },
+        {
+          "number": 6,
+          "title": "Snapchat OSINT - ethicalhackx",
+          "id": "13RuJYEWTpo09MvY1PcVRfXKwHn9MYjcH",
+          "anchor": "v-13RuJYEWTpo09MvY1PcVRfXKwHn9MYjcH",
+          "href": "s11.html#v-13RuJYEWTpo09MvY1PcVRfXKwHn9MYjcH"
+        },
+        {
+          "number": 7,
+          "title": "Reddit OSINT - ethicalhackx",
+          "id": "13VqsPwM463Q2CTg1jwrud8XPymp8KI-L",
+          "anchor": "v-13VqsPwM463Q2CTg1jwrud8XPymp8KI-L",
+          "href": "s11.html#v-13VqsPwM463Q2CTg1jwrud8XPymp8KI-L"
+        },
+        {
+          "number": 8,
+          "title": "LinkedIn OSINT - ethicalhackx",
+          "id": "13LGvIuMPpiDXK3CeKnb56btSaV6ARjD5",
+          "anchor": "v-13LGvIuMPpiDXK3CeKnb56btSaV6ARjD5",
+          "href": "s11.html#v-13LGvIuMPpiDXK3CeKnb56btSaV6ARjD5"
+        },
+        {
+          "number": 9,
+          "title": "TikTok OSINT - ethicalhackx",
+          "id": "13m8QdCDpiZXHo_sJSsg92yXfjOrGdKL8",
+          "anchor": "v-13m8QdCDpiZXHo_sJSsg92yXfjOrGdKL8",
+          "href": "s11.html#v-13m8QdCDpiZXHo_sJSsg92yXfjOrGdKL8"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Website OSINT",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Website OSINT Part 1 - ethicalhackx",
+          "id": "11gVR-V_Ocwsan3IwXpX5C5sk91vovEy7",
+          "anchor": "v-11gVR-V_Ocwsan3IwXpX5C5sk91vovEy7",
+          "href": "s12.html#v-11gVR-V_Ocwsan3IwXpX5C5sk91vovEy7"
+        },
+        {
+          "number": 2,
+          "title": "Website OSINT Part 2 - ethicalhackx",
+          "id": "11oBufRm5fLrih-gl6bbu7MkRQJcuo6ws",
+          "anchor": "v-11oBufRm5fLrih-gl6bbu7MkRQJcuo6ws",
+          "href": "s12.html#v-11oBufRm5fLrih-gl6bbu7MkRQJcuo6ws"
+        },
+        {
+          "number": 3,
+          "title": "Website OSINT Part 3 - ethicalhackx",
+          "id": "11oBbTCAUhg7AjaZnmkbilsLzswqUSzRp",
+          "anchor": "v-11oBbTCAUhg7AjaZnmkbilsLzswqUSzRp",
+          "href": "s12.html#v-11oBbTCAUhg7AjaZnmkbilsLzswqUSzRp"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Business OSINT",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Hunting Business Information - ethicalhackx",
+          "id": "11q_KBK7Wyzl0IwKB5DroM0mgtq6W3JG3",
+          "anchor": "v-11q_KBK7Wyzl0IwKB5DroM0mgtq6W3JG3",
+          "href": "s13.html#v-11q_KBK7Wyzl0IwKB5DroM0mgtq6W3JG3"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Building an OSINT Lab",
+      "page": "s14.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Building an OSINT Lab Part 1 - ethicalhackx",
+          "id": "141iml4dH4BPF7lBIYdGoYPLZNCf1wPL2",
+          "anchor": "v-141iml4dH4BPF7lBIYdGoYPLZNCf1wPL2",
+          "href": "s14.html#v-141iml4dH4BPF7lBIYdGoYPLZNCf1wPL2"
+        },
+        {
+          "number": 2,
+          "title": "Building an OSINT Lab Part 2 - ethicalhackx",
+          "id": "14-_NRGhwuTQJ8UWiU8W7YnxS3Zr2fYcG",
+          "anchor": "v-14-_NRGhwuTQJ8UWiU8W7YnxS3Zr2fYcG",
+          "href": "s14.html#v-14-_NRGhwuTQJ8UWiU8W7YnxS3Zr2fYcG"
+        },
+        {
+          "number": 3,
+          "title": "Building an OSINT Lab Part 3 - ethicalhackx",
+          "id": "13xzuoj8YWSw8od7aIg1QuCB1pMkwkNGi",
+          "anchor": "v-13xzuoj8YWSw8od7aIg1QuCB1pMkwkNGi",
+          "href": "s14.html#v-13xzuoj8YWSw8od7aIg1QuCB1pMkwkNGi"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Working with OSINT Tools",
+      "page": "s15.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction - ethicalhackx",
+          "id": "116hs0j1dFhigRY6rbW56hYSEoy-jblqq",
+          "anchor": "v-116hs0j1dFhigRY6rbW56hYSEoy-jblqq",
+          "href": "s15.html#v-116hs0j1dFhigRY6rbW56hYSEoy-jblqq"
+        },
+        {
+          "number": 2,
+          "title": "Image and Location OSINT - ethicalhackx",
+          "id": "10nCn0bxskcgtVtaDTXGxJHOo-w87Dxu-",
+          "anchor": "v-10nCn0bxskcgtVtaDTXGxJHOo-w87Dxu-",
+          "href": "s15.html#v-10nCn0bxskcgtVtaDTXGxJHOo-w87Dxu-"
+        },
+        {
+          "number": 3,
+          "title": "Hunting Emails and Breached Data - ethicalhackx",
+          "id": "10kKxvb2L2ow2ZDgJWvOuEkcsU6hcixBW",
+          "anchor": "v-10kKxvb2L2ow2ZDgJWvOuEkcsU6hcixBW",
+          "href": "s15.html#v-10kKxvb2L2ow2ZDgJWvOuEkcsU6hcixBW"
+        },
+        {
+          "number": 4,
+          "title": "Username and Account OSINT - ethicalhackx",
+          "id": "10dZKyfgR9fTJuUtVizlakV6IGdZZ64Vo",
+          "anchor": "v-10dZKyfgR9fTJuUtVizlakV6IGdZZ64Vo",
+          "href": "s15.html#v-10dZKyfgR9fTJuUtVizlakV6IGdZZ64Vo"
+        },
+        {
+          "number": 5,
+          "title": "Phone Number OSINT - ethicalhackx",
+          "id": "10pgMDSt--yBsBNUudatj-sIImHZ_ubqI",
+          "anchor": "v-10pgMDSt--yBsBNUudatj-sIImHZ_ubqI",
+          "href": "s15.html#v-10pgMDSt--yBsBNUudatj-sIImHZ_ubqI"
+        },
+        {
+          "number": 6,
+          "title": "Social Media OSINT - ethicalhackx",
+          "id": "10iWRnaGh2v6ETvdM32AzXEu_5p3z67Sy",
+          "anchor": "v-10iWRnaGh2v6ETvdM32AzXEu_5p3z67Sy",
+          "href": "s15.html#v-10iWRnaGh2v6ETvdM32AzXEu_5p3z67Sy"
+        },
+        {
+          "number": 7,
+          "title": "Website OSINT - ethicalhackx",
+          "id": "10rcxWySMLHH5j5OZ9YwNB_WXv6cb8JLS",
+          "anchor": "v-10rcxWySMLHH5j5OZ9YwNB_WXv6cb8JLS",
+          "href": "s15.html#v-10rcxWySMLHH5j5OZ9YwNB_WXv6cb8JLS"
+        },
+        {
+          "number": 8,
+          "title": "Exploring OSINT Frameworks - ethicalhackx",
+          "id": "10fu78cn-PGk9Lv-w5zjaTDgAGsdFSF18",
+          "anchor": "v-10fu78cn-PGk9Lv-w5zjaTDgAGsdFSF18",
+          "href": "s15.html#v-10fu78cn-PGk9Lv-w5zjaTDgAGsdFSF18"
+        },
+        {
+          "number": 9,
+          "title": "Other Tools - ethicalhackx",
+          "id": "10eHfJOKaiR1an3CBjsSI7CbjnQvHMjrS",
+          "anchor": "v-10eHfJOKaiR1an3CBjsSI7CbjnQvHMjrS",
+          "href": "s15.html#v-10eHfJOKaiR1an3CBjsSI7CbjnQvHMjrS"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "OSINT Automation Foundations",
+      "page": "s16.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Automating Website OSINT - ethicalhackx",
+          "id": "12zPbOPlIrajfZWV9JJCGRQ96gzSfzdww",
+          "anchor": "v-12zPbOPlIrajfZWV9JJCGRQ96gzSfzdww",
+          "href": "s16.html#v-12zPbOPlIrajfZWV9JJCGRQ96gzSfzdww"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Course Challenge",
+      "page": "s17.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Course Challenge Overview - ethicalhackx",
+          "id": "12GkyRbF50PFDQK1E15xoexx2leLORWRK",
+          "anchor": "v-12GkyRbF50PFDQK1E15xoexx2leLORWRK",
+          "href": "s17.html#v-12GkyRbF50PFDQK1E15xoexx2leLORWRK"
+        },
+        {
+          "number": 2,
+          "title": "Course Challenge Walkthrough - ethicalhackx",
+          "id": "12GNP4oS9Ulb88W4iUqoZEgfOHATeiKrt",
+          "anchor": "v-12GNP4oS9Ulb88W4iUqoZEgfOHATeiKrt",
+          "href": "s17.html#v-12GNP4oS9Ulb88W4iUqoZEgfOHATeiKrt"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "OSINT Report Writing",
+      "page": "s18.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Writing an OSINT Report - ethicalhackx",
+          "id": "1-uvaHq6kAknlq7AysoH_LY-N-31LZPTK",
+          "anchor": "v-1-uvaHq6kAknlq7AysoH_LY-N-31LZPTK",
+          "href": "s18.html#v-1-uvaHq6kAknlq7AysoH_LY-N-31LZPTK"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Conclusion & Additional Resources",
+      "page": "s19.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Conclusion & Additional Resources - ethicalhackx",
+          "id": "10VfzS_wmCJqDPzfNJefSXUZhkTm4SmKm",
+          "anchor": "v-10VfzS_wmCJqDPzfNJefSXUZhkTm4SmKm",
+          "href": "s19.html#v-10VfzS_wmCJqDPzfNJefSXUZhkTm4SmKm"
+        }
+      ]
+    }
+  ]
+}
